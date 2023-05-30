@@ -137,6 +137,21 @@ get_accuracy(dev_predictions, Y_dev)
 ![image](https://github.com/Pavan-Gv/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94827772/0e5d05f5-04ed-4598-b58e-7bd5342d46ae)
 
 
+![image](https://github.com/Pavan-Gv/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94827772/b309d1e4-55cd-466a-82e2-a769eddc13e0)
+
+
+![image](https://github.com/Pavan-Gv/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94827772/4fc374f3-3ac1-4595-81d0-25724a10123f)
+
+
+![image](https://github.com/Pavan-Gv/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94827772/20ddc007-a792-4c0d-ac14-98e4a44e8622)
+
+
+![image](https://github.com/Pavan-Gv/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94827772/2c8b232e-712c-408f-aa84-496f36bfbed1)
+
+
+![image](https://github.com/Pavan-Gv/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94827772/21db34de-2cb0-430c-aa97-c4ca3bd89683)
+
+
 ## Result:
 Thus The Implementation of Handwritten Digit Recognition using MLP Is Executed Successfully.
 
